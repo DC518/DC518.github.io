@@ -1,0 +1,44 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: The Cookie Jar Compromised - Deconstructing Web Cookie Exploitation. From leaving Crumbs to Complete Surveillance.
+  descr: "Think cookies are just harmless crumbs left behind by websites? Think again. 
+In this presentation, we will dissect the real nature of browser cookies — how they are harvested, how that data gets traded, and how is weaponized by third parties to shadow your every move across the world wide web. We will expose the under-the-hood mechanics of online web tracking, from deceptive consent banners like pop-ups to the vast data ecosystems profiting off your clicks. You will walk away with practical defenses, including how to wield tools like uMatrix and the Brave browser to disrupt tracking and take back control of your digital footprint."
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+
+
+- name: Generative AI - Security & Exploitation (past)
+  descr: "This presentation is about Generative Artificial intelligence -AI- Security and Exploitation with a specification in Prompt Injection, a very simple, yet effective vulnerability ranked number 1 in the OWASP Top Ten Generative AI vulnerabilities. This presentation  will go into depth about all forms of Prompt Injection attacks as well as their mitigations. Furthermore, there will be a demonstration of a proof of concept -POC- of an adversarial generative AI prompt injection attack " 
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+
+- name: Lockpicking Workshop (past)
+  descr: "Join us for an exciting, hands-on Lockpicking Workshop where we explore the art and science behind mechanical locks—and how understanding their inner workings makes us all smarter about security. Whether you're a curious beginner or a cybersecurity enthusiast, this workshop offers a rare peek into the physical side of security. Far from encouraging unauthorized entry, this workshop teaches the mindset of a security professional: understanding how things break is the first step in learning how to protect them. Come ready to pick, learn, and challenge your thinking—because security is not just digital, and curiosity is the master key. " 
+#  demo: https://example.com/
+  tags:
+#    - tag: Python
+#    - tag: Django
+
+- name: Malware Analysis for mere mortals
+  descr: "Coming soon... yes, you too can learn"
