@@ -1,0 +1,49 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Soldering
+  weight: 2
+
+- name: Logic Analyzers
+  weight: 3
+
+- name: Microcontrollers
+  weight: 3
+
+- name: Oscilloscope
+  weight: 1
+
+- name: Electronic Mods
+  weight: 1
+
+- name: RFcat
+  weight: 3
+
+- name: FTDI
+  weight: 2
+
+- name: BusPirate
+  weight: 4
+
+- name: Artificial Intelligence Labs
+  weight: 3
+
+- name: Flashrom
+  weight: 2
+  
+- name: PSU
+  weight: 2
+
+- name: SMD
+  weight: 4
+
+- name: Embedded Linux
+  weight: 3
+
+- name: Social Engineering
+  weight: 2
+  

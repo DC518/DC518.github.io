@@ -1,0 +1,33 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: ESP32
+  weight: 4
+
+- name: Arduino
+  weight: 3
+
+- name: DIY
+  weight: 5
+
+- name: ESP8266
+  weight: 2
+
+- name: Microcontrollers
+  weight: 2
+
+- name: Lockpicking
+  weight: 3
+
+- name: RTL-SDR
+  weight: 4
+
+- name: PCB-Design
+  weight: 2
+
+- name: Hardware-hacking
+  weight: 3

@@ -1,0 +1,66 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Linux
+  weight: 5
+
+- name: Pentesting
+  weight: 4
+
+- name: Incident Response
+  weight: 3
+
+- name: Defense in depth
+  weight: 2
+
+- name: Reverse Engineering
+  weight: 4
+
+- name: OpenWRT
+  weight: 3
+
+- name: PostmarketOS
+  weight: 2
+
+- name: Malware Analysis
+  weight: 3
+
+- name: Vulnerability Management
+  weight: 2
+
+- name: Ghidra
+  weight: 4
+
+- name: Packet Analysis
+  weight: 3
+
+- name: Security Controls
+  weight: 2
+  
+- name: Remediations
+  weight: 4
+
+- name: Mitigations
+  weight: 3
+
+- name: Weaponization
+  weight: 2
+  
+- name: Wireshark
+  weight: 1
+
+- name: Networking
+  weight: 3
+
+- name: TCP/IP
+  weight: 5
+  
+- name: Reconnaissance
+  weight: 2
+  
+- name: Kill_Chain
+  weight: 4

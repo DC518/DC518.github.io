@@ -1,0 +1,74 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#    - tag: AngularJS
+ 
+ 
+- name: "Hacker things with Jayson E Street Hacking the mind - the magic of social engineering."
+  descr: "This time our group DCG518 have a real treat for you. We are not talking about zero-days, exploits, or firewalls… not yet. Instead, we are diving into something even more powerful: the art of influencing people. The most unpredictable system in any network, the human mind.
+  
+Our speaker Jayson E Street is a master at this craft. A renowned hacker and cybersecurity personality, he’s been on stages from major security conferences to talk shows, sharing stories that make you think and laugh, and sometimes leave you impressed and slightly unnerved at once. He is a versatile penetration tester, a natural storyteller, and someone who can build trust faster than most of us can open a terminal.
+
+This time Jayson will take us on a journey through the world of social engineering. You will learn not just the basics, but the subtle magic behind why it works, how it’s everywhere in our daily lives, and perhaps most intriguingly how we can use this knowledge to our advantage: in problem solving, in getting ahead at work, and navigating life more effectively.
+Prepare to think differently, because by the end of this talk, you might realize that humans can be both the greatest vulnerability and the most powerful tool in cybersecurity."
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+- name: The Crown’s Weak Link – Unmasking Active Directory ESC Misconfigurations, Exploiting Flaws in Active Directory Certificate Services (ADCS) for Full Domain Compromise (past)
+  descr: "Have you used Kerberos and Public Key Infrastructure (PKI) to “secure” your Active Directory environment? 
+This talk unravels how a simple misconfiguration within ESC can lead to easy wins for an attacker and complete control over your Active Directory domain.
+Privilege escalation in Active Directory (AD) allows cyber attackers to increase access within the environment and potentially compromise entire networks—undetected.
+
+We’ll walk through why ESC flaws are so damaging and which template settings to avoid when using ADCS. You’ll see how attackers can chain vulnerabilities like PetitPotam (NTLM Relay Attack) and ADCS web enrollment for privilege escalation, achieving Domain Admin in less than 30 seconds.
+
+By the end of this presentation, you will understand which configurations to avoid and how to detect these flaws in your own environment for prevention, mitigation and remediation purposes. We’ll also cover detection tools and how this data can be ingested into platforms like BloodHound."
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+
+
+- name: The Cookie Jar Compromised - Deconstructing Web Cookie Exploitation. From leaving Crumbs to Complete Surveillance. (past)
+  descr: "Think cookies are just harmless crumbs left behind by websites? Think again. 
+In this presentation, we will dissect the real nature of browser cookies — how they are harvested, how that data gets traded, and how is weaponized by third parties to shadow your every move across the world wide web. We will expose the under-the-hood mechanics of online web tracking, from deceptive consent banners like pop-ups to the vast data ecosystems profiting off your clicks. You will walk away with practical defenses, including how to wield tools like uMatrix and the Brave browser to disrupt tracking and take back control of your digital footprint."
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+
+
+- name: Generative AI - Security & Exploitation (past)
+  descr: "This presentation is about Generative Artificial intelligence -AI- Security and Exploitation with a specification in Prompt Injection, a very simple, yet effective vulnerability ranked number 1 in the OWASP Top Ten Generative AI vulnerabilities. This presentation  will go into depth about all forms of Prompt Injection attacks as well as their mitigations. Furthermore, there will be a demonstration of a proof of concept -POC- of an adversarial generative AI prompt injection attack " 
+ # demo: https://example.com/
+  tags:
+ #   - tag: MongoDB
+ #   - tag: Express
+ #   - tag: AngularJS
+ #   - tag: Node
+
+
+- name: Lockpicking Workshop (past)
+  descr: "Join us for an exciting, hands-on Lockpicking Workshop where we explore the art and science behind mechanical locks—and how understanding their inner workings makes us all smarter about security. Whether you're a curious beginner or a cybersecurity enthusiast, this workshop offers a rare peek into the physical side of security. Far from encouraging unauthorized entry, this workshop teaches the mindset of a security professional: understanding how things break is the first step in learning how to protect them. Come ready to pick, learn, and challenge your thinking—because security is not just digital, and curiosity is the master key. " 
+#  demo: https://example.com/
+  tags:
+#    - tag: Python
+#    - tag: Django
+
+- name: Malware Analysis for mere mortals
+  descr: "Coming soon... yes, you too can learn"
