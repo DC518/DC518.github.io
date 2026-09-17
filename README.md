@@ -1,8 +1,10 @@
+
+
 # DCG518 DEFCON Group <!-- omit in toc -->
 
-> Add something cool here.
+> 
 
-
+<img width="575" height="575" alt="Happy-pirate-fine" src="https://github.com/user-attachments/assets/57740ec1-af26-425e-b441-5a8e868b9dac" />
 
 
 [DCG518 live site!](https://dc518.github.io/)
